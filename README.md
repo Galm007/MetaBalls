@@ -1,17 +1,4 @@
-# XNA_MetaBalls
+# MonoGame_MetaBalls
 
-Controlls: 
-
-A - Toggle "Show Debug Circles"
-
-S - Toggle "Show Pixel Corners"
-
---
-
-Q - Show Raw Pixels from Circles
-
-W - Show Metaballs Without Marching Squares
-
-E - Show Metaballs With Marching Squares
-
-R - Show Metaballs With Marching Squares And Linear Interpolation
+Metaballs implementation in MonoGame.
+resource: http://jamie-wong.com/2014/08/19/metaballs-and-marching-squares/
