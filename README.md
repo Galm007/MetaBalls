@@ -1,4 +1,4 @@
-# MonoGame_MetaBalls
+# MonoGame MetaBalls
 
 Metaballs implementation in MonoGame.
-resource: http://jamie-wong.com/2014/08/19/metaballs-and-marching-squares/
+<br> resource: http://jamie-wong.com/2014/08/19/metaballs-and-marching-squares/
