@@ -1,5 +1,4 @@
 ﻿using System;
-using Microsoft.Xna.Framework;
 
 namespace MetaBalls
 {
@@ -8,10 +7,8 @@ namespace MetaBalls
         [STAThread]
         static void Main()
         {
-            using (Game game = new Game())
-            {
+            using (var game = new Game1())
                 game.Run();
-            }
         }
     }
 }
