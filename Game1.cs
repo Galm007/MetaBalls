@@ -10,11 +10,11 @@ namespace MetaBalls
 		const int   ScreenWidth  = 800;
 		const int   ScreenHeight = 600;
 		const float CellSize     = 10.0f;
-		const int   TotalCircles = 15;
-		const float Blobbyness   = 1.5f;
-		const float Speed        = 120.0f;
+		const int   TotalCircles = 10;
+		const float Blobbyness   = 1.6f;
+		const float Speed        = 100.0f;
 
-		readonly Color lineColor = Color.Yellow;
+		readonly Color lineColor = Color.Lime;
 
 		// single-pixel texture for drawing lines
 		Texture2D lineTexture;
